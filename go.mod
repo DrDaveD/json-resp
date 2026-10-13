@@ -1,3 +1,3 @@
-module github.com/sylabs/json-resp
+module github.com/apptainer/json-resp
 
-go 1.18
+go 1.26
